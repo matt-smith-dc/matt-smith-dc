@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+##My name is Matthew Smith. I am a recent graduate from the University of Maryland's Masters program in Applied Economics. My professional career has spanned technical roles in marketing, financial services and consulting, to tech. My technical experience includes ETL and data management automation processes (using tools such as SQL, Python, R), leading data analytics, econometrics and financial analysis in large, data-heavy projects, and team management. I am particularly interested in econometrics, macroeconomics, trade policy, and development economics.
+
+##This repository contains various personal scripts relating to ETL processes, econometrics, and general data analytics. I often code in R, SQL, Stata, and Python, and sometimes write the same underlying program in two different languages, in order to check my work, so there might be spiritual duplicates throughout my work.
+
 <!--
+##This GitHub account contains
 **matt-smith-dc/matt-smith-dc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
